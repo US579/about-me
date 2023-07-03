@@ -24,13 +24,14 @@ devops/docker/local/gurobi.lic
 gurobi.log
 
 # Front-End
-static/dist
-static/node_modules/
-static/coverage/
+dist
+node_modules/
+coverage/
 *.scss.d.ts
-static/config/webpack.config.docker-generated.js
-static/entrypoint_react.sh
+config/webpack.config.docker-generated.js
+entrypoint_react.sh
 .vscode
+build/
 
 # Flatbuffers generated code
 algorithms/model/space_aware/shared_memory/py_rust_common/generated/
