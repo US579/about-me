@@ -23,14 +23,15 @@ const About = () => {
             </LinkContainer>
             <AboutMeHeader>About me</AboutMeHeader>
             <AboutMeContent>
-                I am working as a software engineer and I live in Sydney, Australia.
+                I am working as a software engineer and I live in Sydney,
+                Australia.
             </AboutMeContent>
             <AboutMeContent>
                 I usually code in Python, but I'm also interested in languages
                 like TypeScript and Rust, as well as architectures like
                 event-driven and serverless. I'm fascinated by creating
-                automation and developing user-friendly tools to make people's
-                life easier.
+                automation, manipulating big data and developing user-friendly
+                tools to make people's life easier.
             </AboutMeContent>
             <AboutMeContent>
                 While technology and tinkering are passions of mine and working
