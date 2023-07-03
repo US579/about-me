@@ -1,6 +1,6 @@
 import { PageContainer } from "./styles";
 
-const Project = () => {
+const Projects = () => {
 
     return (
         <PageContainer>
@@ -9,4 +9,4 @@ const Project = () => {
     )
 }
 
-export default Project;
+export default Projects;
