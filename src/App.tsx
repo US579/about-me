@@ -1,8 +1,8 @@
 import {
-    BrowserRouter as Router,
     Route,
     Routes,
 } from "react-router-dom";
+import { HashRouter } from 'react-router-dom';
 import About from "./components/pages/About";
 
 import Header from "./components/Header";
@@ -24,9 +24,9 @@ function App() {
 
 const AppWrapper = () => {
     return (
-        <Router>
+        <HashRouter>
             <App />
-        </Router>
+        </HashRouter>
     );
 };
 

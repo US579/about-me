@@ -43,9 +43,12 @@ export const AboutMeHeader = styled.div`
 export const AboutMeContent = styled.div`
   margin-top: 10px;
   line-height: 2;
-  font-size: 1.125rem;
   margin-right: 8%;
-  
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+  padding-bottom: 10px;
+  margin-top: 16px;
+  font-family: 'Jost',sans-serif;
 `;
 
 export const ImageWrapper = styled.img`
