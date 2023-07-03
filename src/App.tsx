@@ -15,8 +15,8 @@ function App() {
             <Header />
             <Routes>
                 <Route path="/" Component={About} />
-                <Route path="/projects" Component={Project} />
-                <Route path="/about" Component={Thoughts} />
+                <Route path="/#/projects" Component={Project} />
+                <Route path="/#/about" Component={Thoughts} />
             </Routes>
         </div>
     );
