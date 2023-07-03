@@ -23,12 +23,12 @@ const About = () => {
             </LinkContainer>
             <AboutMeHeader>About me</AboutMeHeader>
             <AboutMeContent>
-                I have studied Computer Science at the University of New south
-                wales and I live in Sydney, Australia.
+                I have studied Computer Science at the University of New South
+                Wales and I live in Sydney, Australia.
             </AboutMeContent>
             <AboutMeContent>
                 I usually code in Python but I'm also interested in Typescript,
-                Rust and Serverless. Fascinated by making automation and
+                Rust and Serverless. I'm fascinated by making automation and
                 creating human friendly tools.
             </AboutMeContent>
             <AboutMeContent>
