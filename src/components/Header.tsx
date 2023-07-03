@@ -7,8 +7,8 @@ const Header = () => {
     <HeaderContainer>
       <Icon><ImageIcon /></Icon>
       <Links>
-        <LinkItem href="/projects">Projects</LinkItem>
-        <LinkItem href="/thoughts">Thoughts</LinkItem>
+        <LinkItem href="#/projects">Projects</LinkItem>
+        <LinkItem href="#/thoughts">Thoughts</LinkItem>
       </Links>
     </HeaderContainer>
   );

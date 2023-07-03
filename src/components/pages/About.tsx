@@ -27,9 +27,11 @@ const About = () => {
                 Wales and I live in Sydney, Australia.
             </AboutMeContent>
             <AboutMeContent>
-                I usually code in Python but I'm also interested in Typescript,
-                Rust and Serverless. I'm fascinated by making automation and
-                creating human friendly tools.
+                I usually code in Python, but I'm also interested in languages
+                like TypeScript and Rust, as well as architectures like
+                event-driven and serverless. I'm fascinated by creating
+                automation and developing user-friendly tools to make people's
+                life easier.
             </AboutMeContent>
             <AboutMeContent>
                 While technology and tinkering are passions of mine and working
