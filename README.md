@@ -1,3 +1,3 @@
 # About me
 
-this where i am telling telling about myself
+this where I am telling about myself
